@@ -1,0 +1,21 @@
+{
+  "name": "toolchain-xtensa-lx106-elf",
+  "version": "8.4.0",
+  "description": "GCC Toolchain for Xtensa processor",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "esp8266"
+  ],
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "windows_amd64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andriy-yermakov/xtensa-lx106-elf.git"
+  }
+}
